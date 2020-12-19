@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## The First Principles
 
-You can use the [editor on GitHub](https://github.com/thefirstprinciples/thefirstprinciples.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+As Wikipedia quotes, "A first principle is a basic proposition or assumption that cannot be deduced from any other proposition or assumption"
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is exactly what this website is all about. A place where "We, the community" formulate, collect and collaborate on the first principles across various domains be it science, technology, philosophy, math, management or any other field of study.
 
-### Markdown
+### Browse the Catalog
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Infrastructure Engineering](principles/infrastructure-engineering.md)
 
-```markdown
-Syntax highlighted code block
+### Discuss
 
-# Header 1
-## Header 2
-### Header 3
+[Please start a discussion](https://github.com/thefirstprinciples/thefirstprinciples.github.io/discussions/) if you have any questions, criticism, feedback or suggestions.
 
-- Bulleted
-- List
+### Collaborate
 
-1. Numbered
-2. List
+To collaborate on this project, [please raise an issue or pull request](https://github.com/thefirstprinciples/thefirstprinciples.github.io) on Github
 
-**Bold** and _Italic_ and `Code` text
+### License
 
-[Link](url) and ![Image](src)
-```
+This project is open source carrying an [MIT License](https://opensource.org/licenses/MIT) and the [source is available on Github](https://github.com/thefirstprinciples/thefirstprinciples.github.io)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### NOTE
 
-### Jekyll Themes
+The resources in this website are just meant to be a helping hand for people exploring the concepts, standards, conventions and the best practices in a certain domain and this can get pretty opinionated at some point with everyone having their own thoughts and comprehensions.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thefirstprinciples/thefirstprinciples.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We would advise you to do your own thorough research by talking to experts, following case studies and also seeing what fits your usecase or need before adopting any standard from the catalog in this site.
 
-### Support or Contact
+### Credits
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Brainchild of [Vignesh T.V.](https://github.com/tvvignesh) (Founder, CEO & CTO [@timecampus](https://www.twitter.com/timecampus))
