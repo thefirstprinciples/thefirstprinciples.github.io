@@ -6,7 +6,7 @@ This is exactly what this website is all about. A place where "We, the community
 
 ### Browse the Catalog
 
-- [Infrastructure Engineering](principles/infrastructure-engineering.md)
+- [Infrastructure Engineering](principles/infrastructure-engineering)
 
 ### Discuss
 
